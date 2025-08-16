@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+superstar-cli/__main__.py
+superstar-cli/animation.py
+superstar_cli.egg-info/PKG-INFO
+superstar_cli.egg-info/SOURCES.txt
+superstar_cli.egg-info/dependency_links.txt
+superstar_cli.egg-info/entry_points.txt
+superstar_cli.egg-info/requires.txt
+superstar_cli.egg-info/top_level.txt
