@@ -7,7 +7,7 @@ Bring the iconic "Superstar Rajinikanth" title card animation right into your te
 ---
 
 ![Superstar CLI Animation Demo](![Superstar - Video](https://github.com/user-attachments/assets/c80ac82a-e9f2-49dc-8a29-36b333d83198))
-*(You will need to replace the link above with your own demo GIF. See instructions below.)*
+
 
 ## ✨ Features
 
