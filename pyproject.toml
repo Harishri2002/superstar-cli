@@ -6,12 +6,13 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "superstar-cli"
-version = "1.0.0"
+version = "1.0.1"
 authors = [
-  { name="Your Name", email="your.email@example.com" },
+  { name="Harishri B R", email="harishribr4@example.com" },
 ]
 description = "A terminal-based animation of the Superstar Rajinikanth title card."
 readme = "README.md"
+license = "MIT" # Modern way to specify license
 requires-python = ">=3.7"
 classifiers = [
     "Programming Language :: Python :: 3",
@@ -22,8 +23,7 @@ dependencies = [
 ]
 
 [project.scripts]
-# This line creates the 'superstar' command
-superstar = "superstar_cli.__main__:main"
+superstar = "superstar_cli.animation:main"
 
 [tool.setuptools.packages.find]
 where = ["."]

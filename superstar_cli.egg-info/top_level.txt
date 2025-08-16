@@ -1,2 +1,2 @@
 dist
-superstar-cli
+superstar_cli

@@ -1,2 +1,2 @@
 [console_scripts]
-superstar = superstar_cli.__main__:main
+superstar = superstar_cli.animation:main
