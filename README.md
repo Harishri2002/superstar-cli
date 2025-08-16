@@ -18,9 +18,7 @@ Bring the iconic "Superstar Rajinikanth" title card animation right into your te
 
 ## 🚀 Installation
 
-This package is published on PyPI. You can install it using pip.
-
-For the best experience, use a modern terminal that supports ANSI colors (like Windows Terminal, iTerm2, or most Linux terminals).
+For a simple installation without needing administrator rights, use the `--user` flag. This will install the command in your personal user directory.
 
 ```bash
-pip install superstar-cli
+pip install --user superstar-cli
