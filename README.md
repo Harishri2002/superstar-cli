@@ -24,3 +24,7 @@ For a simple installation without needing administrator rights, use the `--user`
 
 ```bash
 pip install --user superstar-cli
+
+**Run the animation:**
+```bash
+superstar
